@@ -1,0 +1,12 @@
+[submodule "docker-alfresco-platform"]
+	path = docker-alfresco-platform
+	url = https://github.com/jeci-sarl/docker-alfresco-platform.git
+[submodule "docker-alfresco-share"]
+	path = docker-alfresco-share
+	url = https://github.com/jeci-sarl/docker-alfresco-share.git
+[submodule "docker-alfresco-solr"]
+	path = docker-alfresco-solr
+	url = https://github.com/jeci-sarl/docker-alfresco-solr.git
+[submodule "docker-alfresco-libreoffice"]
+	path = docker-alfresco-libreoffice
+	url = https://github.com/jeci-sarl/docker-alfresco-libreoffice.git
