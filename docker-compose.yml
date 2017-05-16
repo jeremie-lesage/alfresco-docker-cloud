@@ -51,7 +51,7 @@ services:
       - /usr/local/tomcat/work/
 
   libreoffice:
-    image: jeci/libreoffice:5.2.7
+    image: jeci/alfresco-libreoffice:5.2.7
     restart: always
     networks:
       - internal
